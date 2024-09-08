@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-ltec+oe5e4v5)3d*hl62n5zcplbck(k5y)h^lv_m)3=i+0hlom
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["ai-blog-article-generator-production.up.railway.app"]
+ALLOWED_HOSTS = ["youtubebloggenerator.up.railway.app"]
 
 
 # Application definition
