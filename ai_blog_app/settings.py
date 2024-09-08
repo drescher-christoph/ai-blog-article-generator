@@ -30,6 +30,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["youtubebloggenerator.up.railway.app"]
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://youtubebloggenerator.up.railway.app',
+]
 
 # Application definition
 
